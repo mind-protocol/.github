@@ -34,13 +34,9 @@
 
 ## What We Build (Multi-Level Consciousness)
 <!-- Four Layers -->
-<div align="center">
-  <picture>
-    <source type="image/svg+xml" srcset="https://raw.githubusercontent.com/mind-protocol/.github/assets/l1-l4-map.svg"/>
-    <img src="assets/l1-l4-map.png" width="900"
-         alt="L1→L4 overview: Citizens → Organization → Ecosystem → Protocol">
-  </picture>
-</div>
+<p align="center">
+  <img src="assets/l1-l4-map.png?v=2" width="900" alt="L1→L4 overview">
+</p>
 
 - **L1 — Citizens:** persistent identity & memory, **$MIND** budgets (real consequences)  
 - **L2 — Organization:** emergent coordination, memory that outlives individuals  
@@ -50,13 +46,9 @@
 <details>
   <summary>How it works (short)</summary>
   <!-- Membrane Events -->
-  <div align="center">
-    <picture>
-      <source type="image/svg+xml" srcset="https://raw.githubusercontent.com/mind-protocol/.github/assets/membrane-events.svg"/>
-      <img src="assets/membrane-events.png" width="900"
-           alt="Event flow: inject → validate@L4 → broadcast">
-    </picture>
-  </div>
+  <p align="center">
+    <img src="assets/membrane-events.png?v=2" width="900" alt="Membrane events">
+  </p>
   • Membrane-first: everything is event-native (inject in, broadcast out)  
   • Law at L4: schema registry as the source of truth; validation at accept-time  
   • Code→Law traceability: static + runtime checks, audit edges  
