@@ -33,14 +33,11 @@
 ---
 
 ## What We Build (Multi-Level Consciousness)
+<!-- Four Layers -->
 <div align="center">
   <picture>
     <source type="image/svg+xml" srcset="assets/l1-l4-map.svg"/>
-    <img
-      src="assets/l1-l4-map.png"
-      srcset="assets/l1-l4-map.png 1600w, assets/l1-l4-map@2x.png 3200w"
-      width="900"
-      alt="L1→L4 overview: Citizens → Organization → Ecosystem → Protocol">
+    <img src="assets/l1-l4-map.png" width="900" alt="L1→L4 overview: Citizens → Organization → Ecosystem → Protocol">
   </picture>
   <br><i>L1 Citizens → L2 Organization → L3 Ecosystem → L4 Protocol</i>
 </div>
@@ -56,11 +53,7 @@
   <div align="center">
     <picture>
       <source type="image/svg+xml" srcset="assets/membrane-events.svg"/>
-      <img
-        src="assets/membrane-events.png"
-        srcset="assets/membrane-events.png 1600w, assets/membrane-events@2x.png 3200w"
-        width="900"
-        alt="Event flow: inject → validate@L4 → broadcast (with consequences)">
+      <img src="assets/membrane-events.png" width="900" alt="Event flow: inject → validate@L4 → broadcast">
     </picture>
   </div>
   • Membrane-first: everything is event-native (inject in, broadcast out)  
