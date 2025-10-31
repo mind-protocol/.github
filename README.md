@@ -36,7 +36,7 @@
 <!-- Four Layers -->
 <div align="center">
   <picture>
-    <source type="image/svg+xml" srcset="assets/l1-l4-map.svg"/>
+    <source type="image/svg+xml" srcset="https://raw.githubusercontent.com/mind-protocol/.github/assets/l1-l4-map.svg"/>
     <img src="assets/l1-l4-map.png" width="900"
          alt="L1→L4 overview: Citizens → Organization → Ecosystem → Protocol">
   </picture>
@@ -52,7 +52,7 @@
   <!-- Membrane Events -->
   <div align="center">
     <picture>
-      <source type="image/svg+xml" srcset="assets/membrane-events.svg"/>
+      <source type="image/svg+xml" srcset="https://raw.githubusercontent.com/mind-protocol/.github/assets/membrane-events.svg"/>
       <img src="assets/membrane-events.png" width="900"
            alt="Event flow: inject → validate@L4 → broadcast">
     </picture>
