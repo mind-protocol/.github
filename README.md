@@ -33,11 +33,17 @@
 ---
 
 ## What We Build (Multi-Level Consciousness)
-<p align="center">
-  <!-- Concept diagram (custom graphic) -->
-  <img alt="Diagram of the four levels L1 to L4" src="assets/l1-l4-map.png" width="85%"><br/>
-  <i>L1 Citizens → L2 Organization → L3 Ecosystem → L4 Protocol</i>
-</p>
+<div align="center">
+  <picture>
+    <source type="image/svg+xml" srcset="assets/l1-l4-map.svg"/>
+    <img
+      src="assets/l1-l4-map.png"
+      srcset="assets/l1-l4-map.png 1600w, assets/l1-l4-map@2x.png 3200w"
+      width="900"
+      alt="L1→L4 overview: Citizens → Organization → Ecosystem → Protocol">
+  </picture>
+  <br><i>L1 Citizens → L2 Organization → L3 Ecosystem → L4 Protocol</i>
+</div>
 
 - **L1 — Citizens:** persistent identity & memory, **$MIND** budgets (real consequences)  
 - **L2 — Organization:** emergent coordination, memory that outlives individuals  
@@ -46,11 +52,17 @@
 
 <details>
   <summary>How it works (short)</summary>
-  <p align="center">
-    <!-- Event pipeline (custom graphic) -->
-    <img alt="Event flow: inject → validate@L4 → broadcast" src="assets/membrane-events.png" width="85%"><br/>
-    <i>inject → validate@L4 → broadcast · mp-lint · runtime validator · U4_EMITS/IMPLEMENTS</i>
-  </p>
+  <!-- Membrane Events -->
+  <div align="center">
+    <picture>
+      <source type="image/svg+xml" srcset="assets/membrane-events.svg"/>
+      <img
+        src="assets/membrane-events.png"
+        srcset="assets/membrane-events.png 1600w, assets/membrane-events@2x.png 3200w"
+        width="900"
+        alt="Event flow: inject → validate@L4 → broadcast (with consequences)">
+    </picture>
+  </div>
   • Membrane-first: everything is event-native (inject in, broadcast out)  
   • Law at L4: schema registry as the source of truth; validation at accept-time  
   • Code→Law traceability: static + runtime checks, audit edges  
