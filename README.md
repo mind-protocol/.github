@@ -37,9 +37,9 @@
 <div align="center">
   <picture>
     <source type="image/svg+xml" srcset="assets/l1-l4-map.svg"/>
-    <img src="assets/l1-l4-map.png" width="900" alt="L1→L4 overview: Citizens → Organization → Ecosystem → Protocol">
+    <img src="assets/l1-l4-map.png" width="900"
+         alt="L1→L4 overview: Citizens → Organization → Ecosystem → Protocol">
   </picture>
-  <br><i>L1 Citizens → L2 Organization → L3 Ecosystem → L4 Protocol</i>
 </div>
 
 - **L1 — Citizens:** persistent identity & memory, **$MIND** budgets (real consequences)  
@@ -53,7 +53,8 @@
   <div align="center">
     <picture>
       <source type="image/svg+xml" srcset="assets/membrane-events.svg"/>
-      <img src="assets/membrane-events.png" width="900" alt="Event flow: inject → validate@L4 → broadcast">
+      <img src="assets/membrane-events.png" width="900"
+           alt="Event flow: inject → validate@L4 → broadcast">
     </picture>
   </div>
   • Membrane-first: everything is event-native (inject in, broadcast out)  
@@ -136,14 +137,6 @@ Acquire on Jupiter/Raydium. Use to **operate**, not speculate.
 - **See:** $COMPUTE → $UBC flow, weekly distributions, secondary market  
 - **Do:** read “How it works,” check the public ledger (as soon as it’s live)  
 - **Links:** <a href="https://swarms.universalbasiccompute.ai/?utm_source=github_readme&utm_campaign=org_showcase">Platform</a>
-
----
-
-## Live Operations (optional proof inset)
-<p align="center">
-  <!-- Small crop from ops dashboard, use only if you want a live-status feel -->
-  <img alt="Operational dashboard with healthy services and live links" src="assets/live-ops.png" width="70%">
-</p>
 
 ---
 
